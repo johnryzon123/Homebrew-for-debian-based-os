@@ -87,5 +87,5 @@ MIT License
 
 ## Author
 by: Johnryzon Z. Abejero  
-github: johnryzon123
+github: johnryzon123@github.com  
 email: johnryzon3@gmail.com
