@@ -41,10 +41,9 @@ This program supports adding taps that calls `sudo add-apt-repository`.
      Or, clone this repository.
 
 2.  **Make the scripts executable:**
-   ```bash
-   chmod +x brew.sh installer.sh
+   ``` chmod +x brew.sh installer.sh ```
 3. **Run the installer:**
-   ./install.sh
+   ``` ./install.sh ```
   This will copy the brew.sh script to ~/bin,
   add an alias to your .bashrc or .zshrc file, and source the file to activate the alias.
 
@@ -52,12 +51,12 @@ This program supports adding taps that calls `sudo add-apt-repository`.
 
 After installation, you can use the brew command as you would with Homebrew:
 
-brew install <package_name>
+``` brew install <package_name>
 brew search <package_name>
 brew update
 brew upgrade
 brew list
-brew help
+brew help ```
 
 ## Configuration
 
