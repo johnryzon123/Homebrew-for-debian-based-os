@@ -86,5 +86,6 @@ this project is intended for educational and demonstration purposes only. Use it
 MIT License
 
 ## Author
-Johnryzon Z. Abejero  
-johnryzon142
+by: Johnryzon Z. Abejero  
+github: johnryzon123
+email: johnryzon3@gmail.com
